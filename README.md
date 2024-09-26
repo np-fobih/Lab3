@@ -18,3 +18,13 @@
 😊
 🙂
 🙏
+
+###### Keyboard Shortcuts
+1. Ctrl+C (Copy)
+2. Ctrl+F (Word Search)
+3. Ctrl+V (Paste)
+
+###### Shortcuts I would like to use more often
+1. Ctrl+A (Select All)
+2. Ctrl+Z (Undo)
+3. Ctrl+Alt+Delete (System Reboot)
