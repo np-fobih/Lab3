@@ -30,4 +30,4 @@
 3. Ctrl+Alt+Delete (System Reboot)
 
 
-[#CLI commands](docs/cli)
+[CLI commands](docs/cli)
