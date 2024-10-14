@@ -28,3 +28,6 @@
 1. Ctrl+A (Select All)
 2. Ctrl+Z (Undo)
 3. Ctrl+Alt+Delete (System Reboot)
+
+
+[#CLI commands](docs/cli)
